@@ -4,7 +4,7 @@ What it is:
   A standard chess game that follows the standard move set and rules.
   
 Skills exercised:
-  Object Oriented Programming
+  Object Oriented Programming, Application Architecture
 
 What I learned:
   In the creation process I began to realize my short comings in design. My general approach of a check list of things to add was not a proper way to implement new components to the game. This realization stressed to me the importance of design, preparation, and architecture.
